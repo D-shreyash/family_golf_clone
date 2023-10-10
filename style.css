@@ -45,6 +45,13 @@ html,body{
     z-index: 999;
 }
 
+
+#nav h4 a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
 #nav img{
     height: 75px;
 }
